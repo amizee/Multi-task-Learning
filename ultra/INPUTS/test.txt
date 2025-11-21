@@ -1,0 +1,8 @@
+bremen_000004_000019_leftImg8bit.jpg
+bremen_000073_000019_leftImg8bit.jpg
+bremen_000089_000019_leftImg8bit.jpg
+darmstadt_000040_000019_leftImg8bit.jpg
+darmstadt_000050_000019_leftImg8bit.jpg
+Image_1.jpg
+Image_5.jpg
+Image_6.jpg
